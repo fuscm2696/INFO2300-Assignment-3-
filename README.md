@@ -1,6 +1,6 @@
 # INFO2300-Assignment-3-
 INFO2300  Assignment 3
-Welcome to **Health Horizon**, a user-friendly medical booking application designed to streamline the appointment scheduling process between patients and healthcare providers. This is the final capstone project, developed as part of INFO2300. The app aims to offer an efficient solution for users to easily find doctors, book appointments, and manage their health needs.
+Welcome to **Health Horizon**, a user-friendly medical booking application designed to streamline the appointment scheduling process between patients and healthcare providers. This is the final capstone project, developed as part of INFO2310. The app aims to offer an efficient solution for users to easily find doctors, book appointments, and manage their health needs.
 
 ---
 
