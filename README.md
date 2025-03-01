@@ -52,3 +52,41 @@ To get started with the project locally, follow these steps:
    ```bash
    git clone https://github.com/yourusername/health-horizon.git
    cd health-horizon
+2. **Install dependancies**:
+   ```bash
+   npm install
+3. **Run the application**:
+   ```bash
+   npm start
+4. **Open the app in your browser at http://localhost:3000 (or the port you configured).**
+## Usage
+
+- **For Patients**:
+  - Create an account and log in to book doctor appointments.
+  - Browse through available doctors, view their profiles, and make an appointment.
+  - View your upcoming and past appointments on your dashboard.
+  
+- **For Doctors**:
+  - Create an account and log in to manage your schedule.
+  - Set your availability and view upcoming patient appointments.
+  - Respond to patients and manage your appointment calendar.
+
+---
+
+## Contributing
+
+We welcome contributions! If you would like to contribute, please fork the repository, make changes, and submit a pull request. Ensure your code follows the project’s coding conventions and passes tests.
+
+---
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+---
+
+## Acknowledgments
+
+- [Course/Program Name]
+- Mentors and reviewers
+- Documentation and API guides for tools like React, Node.js, MongoDB, etc.
