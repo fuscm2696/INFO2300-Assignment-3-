@@ -87,6 +87,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Acknowledgments
 
-- [Course/Program Name]
+- INFO2300
 - Mentors and reviewers
 - Documentation and API guides for tools like React, Node.js, MongoDB, etc.
