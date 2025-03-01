@@ -1,6 +1,6 @@
 # INFO2300-Assignment-3-
 INFO2300  Assignment 3
-Welcome to **Health Horizon**, a user-friendly medical booking application designed to streamline the appointment scheduling process between patients and healthcare providers. This is the final capstone project, developed as part of [Course Name or Program]. The app aims to offer an efficient solution for users to easily find doctors, book appointments, and manage their health needs.
+Welcome to **Health Horizon**, a user-friendly medical booking application designed to streamline the appointment scheduling process between patients and healthcare providers. This is the final capstone project, developed as part of INFO2300. The app aims to offer an efficient solution for users to easily find doctors, book appointments, and manage their health needs.
 
 ---
 
@@ -21,18 +21,22 @@ Welcome to **Health Horizon**, a user-friendly medical booking application desig
 - **Frontend**: 
   - React
   - HTML5, CSS3
-  - Bootstrap (or Tailwind CSS)
+  - Bootstrap
+  - TBD
 - **Backend**: 
   - Node.js
   - Express.js
-  - MongoDB (or other database options)
+  - MongoDB 
+  - TBD
 - **Authentication**: 
   - JWT (JSON Web Tokens)
   - bcrypt (for password hashing)
+  - TBD
 - **APIs**: 
   - RESTful API architecture
+  - TBD
 - **Deployment**: 
-  - Heroku / Vercel (or any other cloud service)
+  - TBD
 
 ---
 
