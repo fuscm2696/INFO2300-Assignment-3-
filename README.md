@@ -1,2 +1,54 @@
 # INFO2300-Assignment-3-
-INFO2300  Assignment 3 
+INFO2300  Assignment 3
+Welcome to **Health Horizon**, a user-friendly medical booking application designed to streamline the appointment scheduling process between patients and healthcare providers. This is the final capstone project, developed as part of [Course Name or Program]. The app aims to offer an efficient solution for users to easily find doctors, book appointments, and manage their health needs.
+
+---
+
+## Features
+
+- **User Authentication**: Sign up, log in, and manage user profiles for both patients and healthcare providers.
+- **Search & Filter**: Search for doctors by specialization, location, availability, and ratings.
+- **Appointment Scheduling**: Easily book, cancel, or reschedule appointments.
+- **Doctor Dashboard**: Doctors can manage their schedule, see upcoming appointments, and update availability.
+- **Patient Dashboard**: Patients can view their appointment history, upcoming appointments, and update their details.
+- **Ratings & Reviews**: Patients can rate doctors based on their experience and leave reviews.
+- **Notifications**: Receive reminders for upcoming appointments and updates.
+
+---
+
+## Technologies Used
+
+- **Frontend**: 
+  - React
+  - HTML5, CSS3
+  - Bootstrap (or Tailwind CSS)
+- **Backend**: 
+  - Node.js
+  - Express.js
+  - MongoDB (or other database options)
+- **Authentication**: 
+  - JWT (JSON Web Tokens)
+  - bcrypt (for password hashing)
+- **APIs**: 
+  - RESTful API architecture
+- **Deployment**: 
+  - Heroku / Vercel (or any other cloud service)
+
+---
+
+## Installation
+
+To get started with the project locally, follow these steps:
+
+### Prerequisites
+
+- Node.js (>=14.x)
+- npm (>=6.x) or yarn
+- MongoDB (for local development) or use a cloud service like MongoDB Atlas
+
+### Steps
+
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/yourusername/health-horizon.git
+   cd health-horizon
